@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'ADLaM Display';
+    src: url('ADLaMDisplay-Regular.eot');
+    src: local('ADLaM Display Regular'), local('ADLaMDisplay-Regular'),
+        url('ADLaMDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ADLaMDisplay-Regular.woff2') format('woff2'),
+        url('ADLaMDisplay-Regular.woff') format('woff'),
+        url('ADLaMDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
