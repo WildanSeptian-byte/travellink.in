@@ -6,7 +6,7 @@ switch($aksi){
         include 'main/galeri.php';
     break;
     case 'kontak':
-        include 'main/kontak.php';
+        include 'main/about.php';
     break;
     case 'pesan':
         include 'main/pemesanan.php';
@@ -23,7 +23,7 @@ switch($aksi){
     
     
     default:
-        include 'main/beranda.php';
+        include '../index.php';
     break;
 }
 

@@ -19,9 +19,10 @@
                 <nav>
                     <ul>
                         <li class="nav-item"><a class="nav-link" href="../index.php" class="active">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="../main/pemesanan.php">Pemesanan</a></li>
+                        <li class="nav-item"><a class="nav-link" href="pemesanan.php">Pemesanan</a></li>
                         <li class="nav-item"><a class="nav-link" href="destinasi.php">Destination</a></li>
                         <li class="nav-item"><a class="nav-link" href="about.php">About Us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="../daftar.php">Daftar</a></li>
                     </ul>
                 </nav>
             </div>

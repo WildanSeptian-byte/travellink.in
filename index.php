@@ -9,20 +9,7 @@
 </head>
 <body>
     <!-- Header -->
-    <header>
-        <div class="nav-container">
-            <div class="logo">
-                <h1><span style="color: darkorange;">Travellink.in</span></h1>
-            </div>
-            <nav>
-                <ul>
-                <li class="nav-item"><a class="nav-link" href="index.php" class="active">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="main/pemesanan.php">Pemesanan</a></li>
-                <li class="nav-item"><a class="nav-link" href="destinasi.php">Destination</a></li>
-                <li class="nav-item"><a class="nav-link" href="about.php">About Us</a></li>
-            </nav>
-        </div>
-    </header>
+    <?php include "../Travellink.in/lib/nav.php"; ?>
   
     <!-- Home Section -->
     <section class="home">

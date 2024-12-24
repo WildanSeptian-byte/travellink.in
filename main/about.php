@@ -20,8 +20,9 @@
                     <ul>
                         <li class="nav-item"><a class="nav-link" href="../index.php" class="active">Home</a></li>
                         <li class="nav-item"><a class="nav-link" href="../main/pemesanan.php">Pemesanan</a></li>
-                        <li class="nav-item"><a class="nav-link" href="destinasi.php">Destination</a></li>
-                        <li class="nav-item"><a class="nav-link" href="about.php">About Us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="../main/destinasi.php">Destination</a></li>
+                        <li class="nav-item"><a class="nav-link" href="../main/about.php">About Us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="../daftar.php">Daftar</a></li>
                     </ul>
                 </nav>
             </div>
@@ -33,37 +34,37 @@
         </section>
 
 
-       <!-- About Us Section -->
-<section class="about-us">
-    <div class="about-background">
-        <div class="about-image">
-            <img src="../assets/images/Eighth.jpg.jpeg" alt="About Us Photo" />
-        </div>
-        <div class="about-text">
-            <h3>About Us</h3>
-            <h4><span class="highlight">Pelayanan</span> Terbaik <br>dan Terpercaya</h4>
-            <p>We are the largest holiday service in the world with partners and places spread all over the world by prioritizing service and customers satisfaction.</p>
-            <button class="learn-more">Learn More</button>
-           
-            <div class="stacked-text">
-                <span>
-                    <span class="highlight">200+</span><br>
-                    Customers<br>
-                    & Partners
-                </span>
-                <span>
-                    <span class="highlight">500+</span><br>
-                    Place In The World
-                </span>
-                <span>
-                    <span class="highlight">1k+</span><br>
-                    Success Journey
-                </span>
-            </div> 
+        <!-- About Us Section -->
+        <section class="about-us">
+            <div class="about-background">
+                <div class="about-image">
+                    <img src="../assets/images/Eighth.jpg.jpeg" alt="About Us Photo" />
+                </div>
+                <div class="about-text">
+                    <h3>About Us</h3>
+                    <h4><span class="highlight">Pelayanan</span> Terbaik <br>dan Terpercaya</h4>
+                    <p>We are the largest holiday service in the world with partners and places spread all over the world by prioritizing service and customers satisfaction.</p>
+                    <button class="learn-more">Learn More</button>
 
-        </div>
-    </div>
-</section>
+                    <div class="stacked-text">
+                        <span>
+                            <span class="highlight">200+</span><br>
+                            Customers<br>
+                            & Partners
+                        </span>
+                        <span>
+                            <span class="highlight">500+</span><br>
+                            Place In The World
+                        </span>
+                        <span>
+                            <span class="highlight">1k+</span><br>
+                            Success Journey
+                        </span>
+                    </div>
+
+                </div>
+            </div>
+        </section>
 
 
         <!-- Footer Section -->
